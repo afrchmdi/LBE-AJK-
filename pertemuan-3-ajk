@@ -16,3 +16,5 @@ pada pertemuan ke 3 materi diberikan oleh mas Satria. beberapa poin materi yang 
   mds5sum namafile
 -Base64; ciri: ada tanda '='; panjang kelipatan 4
 -Penambahan spasi sebelum command di terminal->tidak masuk history
+
+Selain materi, pada akhir materi kami melakukan simulasi CTF dengan soal-soal yang berkaitan dengan forensik dan kriptography
