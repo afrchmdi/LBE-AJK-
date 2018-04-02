@@ -1,0 +1,18 @@
+#Pertemuan 3 LBE AJK
+pada pertemuan ke 3 materi diberikan oleh mas Satria. beberapa poin materi yang saya catat:
+-Kriptography:ilmu mengaburkan informasi
+-Forensik: mencari flag dalam file
+  ~identifikasi file
+  ~ekstrak metadata file
+  ~ekstrak isi file
+  ~periksa isi file(mungkin perlu rekonstruksi sesuatu)
+-Pengenalan encryption, decryption, cypher, crytanalysis
+-c=Ek(P);  P=Dk(C); 
+  p=plain text, c=cipher text, E=encryption method, D=decryption method, k=the key.
+-Plain text=secret; encrypted=escrete
+-Caesar cipher text: mengubah huruf dimana tiap huruf ditambah ... shift.
+-key generic:ada kuncinya; simetric: kunci sama; asymetric: ada public key ada private key
+-Hash: untuk mengetahui pesan yang dikirim ada perubahan atau tidak, kalau sama berarti tidak ada perubahan;
+  mds5sum namafile
+-Base64; ciri: ada tanda '='; panjang kelipatan 4
+-Penambahan spasi sebelum command di terminal->tidak masuk history
