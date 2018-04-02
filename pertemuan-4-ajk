@@ -1,0 +1,31 @@
+#Pertemuan 4 LBE AJK
+pada pertemuan ke 4 LBE AJK materi diberikan oleh mas Satria. 
+pada awal sesi dibahas pembahasan penyelesaian soal simulasi pada pertemun seblumnya, pertemuanke-3 serta beberapa tips dan cara penyelesaian soal yang bertipe forensik atau kriptography.
+berikut beberapa poin penting yang saya catat:
+
+-soal yang facebook: pakai google image search gambar pemandangan yang ada di facebook tersebut dengan google bot dan flag kotanya adalah Laos.
+-file zip kotak rahasia
+-vigenere decoder online
+-hashing:apakah data asli?
+-encoding: pesan dapat dibaca di semua aplikasi
+-encryp: menyembunyikan data
+-gunakan md5 hashkiller / crackstation untuk soal bingung.txt
+-untuk soal warna: inspect element, hex diubah ke ASCII
+
+Pada pertemuan ke-4 materi yang dibahas berkisar di networking
+beberapa poin penting yang saya catat:
+
+-OSI Model:
+  7 Layer: physical, data linnk. network, transport, session, presentation, application
+  2 layer: transport(TCP/UDP), network (IP)
+ -jenis-jenis web server
+ -wget -> untuk download
+ -curl -I 
+ -download aplikasi-aplikasi yang bisa digunakan dalam mengerjakan CTF jenis networking
+ -wireshark!
+ -telnet
+ -netcat
+ -openssl
+ -imapproject
+ 
+ dan terakhir seperti biasa, dilakukan simulasi pengerjaan soal CTF jenis trivia dan networking :)
